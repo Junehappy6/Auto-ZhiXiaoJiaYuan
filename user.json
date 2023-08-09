@@ -1,15 +1,15 @@
 [
   {
     "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
-    "randomLocation": false,
-    "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "alias": "张雪娇",
+    "phone": "15003832615",
+    "password": "zxj123456",
+    "deviceType": "Huawei|p60 pro |4",
+    "deviceId": "226bd3fa330f4fb3a2f9d747a3c54deec8f6",
+    "randomLocation": true,
+    "address": "河南省郑州市金水区时代国际广场",
+    "longitude": "113.67029094467162",
+    "latitude": "34.786400690979384",
+    "pushKey": "7e80103ca90f45419c3fde681d961c4d"
   }
 ]
